@@ -10,7 +10,7 @@ They will also perform a live wireframing activity and optionally generate UI co
 
 Below are the two main learning resources for this lesson:
 
-### ✅ [**1. Agile & Scrum Foundations + Wireframing Activity Canvas**]([Intro_to_DBs.md)
+### ✅ [**1. Agile & Scrum Foundations + Wireframing Activity Canvas**](Intro_to_DBs.md)
 This document includes:
 - Full explanations of Agile  
 - Full explanation of Scrum  
